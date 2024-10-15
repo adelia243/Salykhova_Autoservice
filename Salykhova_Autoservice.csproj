@@ -110,9 +110,7 @@
     <Compile Include="Service.cs">
       <DependentUpon>Salykhova_Autoservice.tt</DependentUpon>
     </Compile>
-    <Compile Include="ServicePage.xaml.cs">
-      <DependentUpon>ServicePage.xaml</DependentUpon>
-    </Compile>
+    <Compile Include="ServicePage.xaml.cs" />
     <Compile Include="ServicePhoto.cs">
       <DependentUpon>Salykhova_Autoservice.tt</DependentUpon>
     </Compile>
