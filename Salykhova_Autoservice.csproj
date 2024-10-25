@@ -177,6 +177,24 @@
     <Resource Include="res\service_logo.png" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="res\Услуги автосервиса\diz.jpg" />
+    <Resource Include="res\Услуги автосервиса\rulevoe-upravlenie-avtomobilya.jpg" />
+    <Resource Include="res\Услуги автосервиса\transmission.jpg" />
+    <Resource Include="res\Услуги автосервиса\АКПП.jpg" />
+    <Resource Include="res\Услуги автосервиса\Вариатор.jpg" />
+    <Resource Include="res\Услуги автосервиса\Выхлопная система.jpg" />
+    <Resource Include="res\Услуги автосервиса\ГУР.png" />
+    <Resource Include="res\Услуги автосервиса\Двигатель.png" />
+    <Resource Include="res\Услуги автосервиса\Дополнительные услуги.png" />
+    <Resource Include="res\Услуги автосервиса\Кондиционер.jpg" />
+    <Resource Include="res\Услуги автосервиса\КПП.png" />
+    <Resource Include="res\Услуги автосервиса\Подвеска.png" />
+    <Resource Include="res\Услуги автосервиса\Сцепление.jpg" />
+    <Resource Include="res\Услуги автосервиса\Техническое обслуживание.png" />
+    <Resource Include="res\Услуги автосервиса\Топливная система.png" />
+    <Resource Include="res\Услуги автосервиса\Шиномонтаж.jpg" />
+    <Resource Include="res\Услуги автосервиса\Электрика.png" />
+    <Resource Include="res\Услуги автосервиса\picture.png" />
     <Content Include="Salykhova_Autoservice.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Salykhova_Autoservice.Context.cs</LastGenOutput>
@@ -191,5 +209,6 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
