@@ -177,24 +177,24 @@
     <Resource Include="res\service_logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="res\Услуги автосервиса\diz.jpg" />
-    <Resource Include="res\Услуги автосервиса\rulevoe-upravlenie-avtomobilya.jpg" />
-    <Resource Include="res\Услуги автосервиса\transmission.jpg" />
-    <Resource Include="res\Услуги автосервиса\АКПП.jpg" />
-    <Resource Include="res\Услуги автосервиса\Вариатор.jpg" />
-    <Resource Include="res\Услуги автосервиса\Выхлопная система.jpg" />
-    <Resource Include="res\Услуги автосервиса\ГУР.png" />
-    <Resource Include="res\Услуги автосервиса\Двигатель.png" />
-    <Resource Include="res\Услуги автосервиса\Дополнительные услуги.png" />
-    <Resource Include="res\Услуги автосервиса\Кондиционер.jpg" />
-    <Resource Include="res\Услуги автосервиса\КПП.png" />
-    <Resource Include="res\Услуги автосервиса\Подвеска.png" />
-    <Resource Include="res\Услуги автосервиса\Сцепление.jpg" />
-    <Resource Include="res\Услуги автосервиса\Техническое обслуживание.png" />
-    <Resource Include="res\Услуги автосервиса\Топливная система.png" />
-    <Resource Include="res\Услуги автосервиса\Шиномонтаж.jpg" />
-    <Resource Include="res\Услуги автосервиса\Электрика.png" />
-    <Resource Include="res\Услуги автосервиса\picture.png" />
+    <Resource Include="Услуги автосервиса\diz.jpg" />
+    <Resource Include="Услуги автосервиса\rulevoe-upravlenie-avtomobilya.jpg" />
+    <Resource Include="Услуги автосервиса\transmission.jpg" />
+    <Resource Include="Услуги автосервиса\АКПП.jpg" />
+    <Resource Include="Услуги автосервиса\Вариатор.jpg" />
+    <Resource Include="Услуги автосервиса\Выхлопная система.jpg" />
+    <Resource Include="Услуги автосервиса\ГУР.png" />
+    <Resource Include="Услуги автосервиса\Двигатель.png" />
+    <Resource Include="Услуги автосервиса\Дополнительные услуги.png" />
+    <Resource Include="Услуги автосервиса\Кондиционер.jpg" />
+    <Resource Include="Услуги автосервиса\КПП.png" />
+    <Resource Include="Услуги автосервиса\Подвеска.png" />
+    <Resource Include="Услуги автосервиса\Сцепление.jpg" />
+    <Resource Include="Услуги автосервиса\Техническое обслуживание.png" />
+    <Resource Include="Услуги автосервиса\Топливная система.png" />
+    <Resource Include="Услуги автосервиса\Шиномонтаж.jpg" />
+    <Resource Include="Услуги автосервиса\Электрика.png" />
+    <Resource Include="Услуги автосервиса\picture.png" />
     <Content Include="Salykhova_Autoservice.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Salykhova_Autoservice.Context.cs</LastGenOutput>

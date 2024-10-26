@@ -38,7 +38,7 @@ namespace Salykhova_Autoservice
             }
             set
             {
-
+                this.Discount = Convert.ToDouble(value) / 100;
             }
         }
         public string Description { get; set; }
